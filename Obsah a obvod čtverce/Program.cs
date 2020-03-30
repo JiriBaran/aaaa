@@ -20,7 +20,7 @@ namespace Obsah_a_obvod_čtverce
 
             Console.WriteLine("Obvod je: {0}", obvod);
             Console.WriteLine("Obsah je: {0}", obsah);
-            Console.ReadKey();
+            Console.ReadKey(); //čau
         }
     }
 }
